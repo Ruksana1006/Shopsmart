@@ -15,7 +15,7 @@ ShopSmart is a feature-rich shopping assistant web application developed using A
 ☁️ Deployment Ready: Build outputs in /dist ready for deployment
 
 🧪 Development Instructions:
-Run ng serve to start the dev server at http://localhost:4200/
+Run ng serve to start the dev server 
 
 Run ng build to compile production-ready builds.
 
